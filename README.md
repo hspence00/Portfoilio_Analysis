@@ -1,4 +1,4 @@
-# Portfoilio_Analysis
+# Portfolio_Analysis
 A complete presentation and guide to do a financial analysis with visuals, while also cleaning, and re-organizing data types.
 
 This is my final project for challenge 4.
